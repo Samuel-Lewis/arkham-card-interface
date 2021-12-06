@@ -1,4 +1,5 @@
 import {
+  Button,
   Card,
   Col,
   Row,
@@ -27,6 +28,15 @@ export const HomePage: React.FC = () => {
   return (
     <div className={"home-page"}>
       <Title>Arkham Horror Card Interface</Title>
+      <div className="nav-links">
+        <Link to="/">
+          <Button type="link">Home</Button>
+        </Link>
+        |
+        <Link to="/stream">
+          <Button type="link">Stream</Button>
+        </Link>
+      </div>
       <Row gutter={[16, 16]}>
         <Col span={12}>
           <Card title="Card" style={{ minWidth: "500px", minHeight: "500px" }}>
