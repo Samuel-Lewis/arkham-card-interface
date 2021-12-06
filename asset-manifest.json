@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arkham-card-interface/static/css/main.88eb9a0c.chunk.css",
+    "main.js": "/arkham-card-interface/static/js/main.d731f338.chunk.js",
+    "main.js.map": "/arkham-card-interface/static/js/main.d731f338.chunk.js.map",
+    "runtime-main.js": "/arkham-card-interface/static/js/runtime-main.86df0cd9.js",
+    "runtime-main.js.map": "/arkham-card-interface/static/js/runtime-main.86df0cd9.js.map",
+    "static/js/2.c2ad6994.chunk.js": "/arkham-card-interface/static/js/2.c2ad6994.chunk.js",
+    "static/js/2.c2ad6994.chunk.js.map": "/arkham-card-interface/static/js/2.c2ad6994.chunk.js.map",
+    "index.html": "/arkham-card-interface/index.html",
+    "static/css/main.88eb9a0c.chunk.css.map": "/arkham-card-interface/static/css/main.88eb9a0c.chunk.css.map",
+    "static/js/2.c2ad6994.chunk.js.LICENSE.txt": "/arkham-card-interface/static/js/2.c2ad6994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86df0cd9.js",
+    "static/js/2.c2ad6994.chunk.js",
+    "static/css/main.88eb9a0c.chunk.css",
+    "static/js/main.d731f338.chunk.js"
+  ]
+}
